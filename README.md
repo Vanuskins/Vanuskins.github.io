@@ -4,7 +4,7 @@
 
 ## Ссылка на сайт
 
-https://vanuskins.github.io/
+[https://vanuskins.github.io/](https://vanuskins-github-io.vercel.app/)
 
 ## Репозиторий
 
